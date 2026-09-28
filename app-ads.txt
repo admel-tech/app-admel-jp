@@ -958,3 +958,8 @@ bold-win.com, 1013, RESELLER, 71746737d0bab951
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+
+#Unity Ads 表記ゆれ対策（2026-09-28）
+lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
+media.net, 8CUUQ286L, RESELLER
+media.net, 8CU9B72O6, RESELLER
