@@ -963,3 +963,7 @@ triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
 media.net, 8CUUQ286L, RESELLER
 media.net, 8CU9B72O6, RESELLER
+#Unity Ads 追加分（2026-10-31）
+monetrix.ai, 10761, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+start.io, 131192070, RESELLER
